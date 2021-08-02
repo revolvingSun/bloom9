@@ -1,0 +1,12 @@
+ Volume in drive D is 2TB 
+ Volume Serial Number is 5E1D-AF63
+
+ Directory of D:\MOBILE_APP_LEARN\GIT_TRIP\MyFirstGit
+
+08/02/2021  04:18 PM    <DIR>          .
+08/02/2021  04:18 PM    <DIR>          ..
+08/01/2021  11:09 PM                22 index.html
+08/01/2021  11:09 PM               370 test1.txt
+08/02/2021  04:18 PM                 0 test2.txt
+               3 File(s)            392 bytes
+               2 Dir(s)  127,279,443,968 bytes free
